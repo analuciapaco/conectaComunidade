@@ -1,0 +1,12 @@
+api\conecta\org\models\Familia.class
+api\conecta\org\ConectaApirestApplication.class
+api\conecta\org\models\Login.class
+api\conecta\org\resources\FamiliaResource.class
+api\conecta\org\config\SwaggerConfig.class
+api\conecta\org\resources\LiderDeRuaResource.class
+api\conecta\org\models\Pessoa.class
+api\conecta\org\models\LiderDeRua.class
+api\conecta\org\repository\PessoaRepository.class
+api\conecta\org\resources\PessoaResource.class
+api\conecta\org\repository\LiderDeRuaRepository.class
+api\conecta\org\repository\FamiliaRepository.class
